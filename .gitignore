@@ -1,4 +1,4 @@
 .env
 db/*.json
-!db
+!db/
 node_modules
